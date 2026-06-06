@@ -2,6 +2,8 @@
 # Запуск проекта
 1. Клонируйте репозиторий: git clone https://github.com/DJBlin11/Reporting-AI-Agent-Test-Case.git
 
+2. Вставьте API ключ из сообщения в файл .env для проверки работоспособности агента
+
 3. cd Reporting-AI-Agent-Test-Case в терминале
 
 4. Установите зависимости:
