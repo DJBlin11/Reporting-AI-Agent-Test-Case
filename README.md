@@ -5,7 +5,7 @@
 3. cd Reporting-AI-Agent-Test-Case в терминале
 
 4. Установите зависимости:
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 5. Запустите агента:
 python agent.py
